@@ -8,5 +8,4 @@ public class MergeTest {
 		System.out.println(4);
 		
 	}
-
 }
