@@ -21,4 +21,10 @@ public class HelloWorld {
 		new Dog().say();
 		new Cat().say();
 	}
+	/**
+	*원격저장소에서 수정 된 내용
+	*/
+	public void hello(){
+		System.out.println("저를 fetch 해 주세요.");
+	}
 }
